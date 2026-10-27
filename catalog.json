@@ -1,0 +1,21 @@
+{
+  "packs": [
+    {
+      "id": "science-chem",
+      "name": "Science · Chemistry",
+      "subject": "science",
+      "grades": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "version": 1,
+      "sizeMB": 1.2,
+      "sha256": "81aa6ac71dea90d19524ce6f05da419679b29c3ad3f25dc5ce82147e3d5aa26b",
+      "url": "https://raw.githubusercontent.com/Mckenly09/lucid-packs/main/packs/science-chem-v1.sqlite",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "Adapted from Chemistry 2e by Paul Flowers, Klaus Theopold, Richard Langley, William R. Robinson (OpenStax, Rice University), https://openstax.org/details/books/chemistry-2e. Access for free at openstax.org. Licensed CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/). Changes: split into short notes; figures, tables and exercises removed."
+    }
+  ]
+}
