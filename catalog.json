@@ -12,10 +12,44 @@
       ],
       "version": 1,
       "sizeMB": 1.2,
-      "sha256": "81aa6ac71dea90d19524ce6f05da419679b29c3ad3f25dc5ce82147e3d5aa26b",
+      "sha256": "78c09572be4e1dcc6f184f9da91cab8b055c78b750e29f585ea3b58f00d53c45",
       "url": "https://raw.githubusercontent.com/Mckenly09/lucid-packs/main/packs/science-chem-v1.sqlite",
       "license": "CC BY-NC-SA 4.0",
       "attribution": "Adapted from Chemistry 2e by Paul Flowers, Klaus Theopold, Richard Langley, William R. Robinson (OpenStax, Rice University), https://openstax.org/details/books/chemistry-2e. Access for free at openstax.org. Licensed CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/). Changes: split into short notes; figures, tables and exercises removed."
+    },
+    {
+      "id": "science-physics",
+      "name": "Science · Physics",
+      "subject": "science",
+      "grades": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "version": 1,
+      "sizeMB": 0.9,
+      "sha256": "84b79cc5a027637f166b7a8c8989a192cc080d356894fafa941441d4b09c55d7",
+      "url": "https://raw.githubusercontent.com/Mckenly09/lucid-packs/main/packs/science-physics-v1.sqlite",
+      "license": "CC BY 4.0",
+      "attribution": "Adapted from Physics by Paul Peter Urone, Roger Hinrichs (OpenStax, Rice University), https://openstax.org/details/books/physics. Access for free at openstax.org. Licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Changes: split into short notes; figures, tables and exercises removed."
+    },
+    {
+      "id": "science-bio",
+      "name": "Science · Biology",
+      "subject": "science",
+      "grades": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "version": 1,
+      "sizeMB": 1.2,
+      "sha256": "9f3e02c089af5dd45752c28efa5464299921e514c79f9ae84bebf417c16856c2",
+      "url": "https://raw.githubusercontent.com/Mckenly09/lucid-packs/main/packs/science-bio-v1.sqlite",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "Adapted from Concepts of Biology by Samantha Fowler, Rebecca Roush, James Wise (OpenStax, Rice University), https://openstax.org/details/books/concepts-biology. Access for free at openstax.org. Licensed CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/). Changes: split into short notes; figures, tables and exercises removed."
     }
   ]
 }

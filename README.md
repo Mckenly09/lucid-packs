@@ -12,5 +12,7 @@ Every pack carries its source's license and attribution (also stored inside the 
 | Pack | Source | License |
 |---|---|---|
 | `science-chem` · Science · Chemistry (Grades 7–10) | Adapted from *Chemistry 2e* by Paul Flowers, Klaus Theopold, Richard Langley, William R. Robinson (OpenStax, Rice University), https://openstax.org/details/books/chemistry-2e. Access for free at openstax.org. | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
+| `science-physics` · Science · Physics (Grades 7–10) | Adapted from *Physics* by Paul Peter Urone, Roger Hinrichs (OpenStax, Rice University), https://openstax.org/details/books/physics. Access for free at openstax.org. | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| `science-bio` · Science · Biology (Grades 7–10) | Adapted from *Concepts of Biology* by Samantha Fowler, Rebecca Roush, James Wise (OpenStax, Rice University), https://openstax.org/details/books/concepts-biology. Access for free at openstax.org. | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) |
 
-Changes made to the sources: text split into short notes by section; figures, tables and exercises removed; math written as plain text. Packs adapted from ShareAlike sources are shared under the same license. NonCommercial packs may not be used commercially.
+Changes made to the sources: text split into short notes by section; figures, tables, exercises and teacher notes removed; math written as plain text. Packs adapted from ShareAlike sources are shared under the same license. NonCommercial packs may not be used commercially.
