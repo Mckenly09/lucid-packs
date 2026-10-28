@@ -147,6 +147,20 @@
       "attribution": "Adapted from public web pages of the U.S. Geological Survey (USGS), NOAA's National Weather Service (JetStream), NASA, DOST-PHIVOLCS and DOST-PAGASA, retrieved 2026-10-28. US Government pages are in the public domain; Philippine Government works are used non-commercially (IP Code §176). Not endorsed by these agencies. Changes: split into short notes; images, menus and some tables removed. Each note links to its page."
     },
     {
+      "id": "math-genmath-business-logic",
+      "name": "Math · Gen Math: Business Math and Logic",
+      "subject": "math",
+      "grades": [
+        11
+      ],
+      "version": 2,
+      "sizeMB": 0.4,
+      "sha256": "30b97510769c3190d9bd3ebbae589c6e92bd0e225754e82ad61a0ae9cb2ad359",
+      "url": "https://raw.githubusercontent.com/Mckenly09/lucid-packs/main/packs/math-genmath-business-logic-v2.sqlite",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "Adapted from Contemporary Mathematics by Donna Kirk (OpenStax, Rice University), https://openstax.org/details/books/contemporary-mathematics. Access for free at openstax.org. Licensed CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/). Changes: split into short notes; figures, tables and exercises removed."
+    },
+    {
       "id": "math-genmath-functions",
       "name": "Math · Gen Math: Functions",
       "subject": "math",
@@ -159,20 +173,6 @@
       "url": "https://raw.githubusercontent.com/Mckenly09/lucid-packs/main/packs/math-genmath-functions-v1.sqlite",
       "license": "CC BY-NC-SA 4.0",
       "attribution": "Adapted from Algebra and Trigonometry 2e by Jay Abramson (OpenStax, Rice University), https://openstax.org/details/books/algebra-and-trigonometry-2e. Access for free at openstax.org. Licensed CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/). Changes: split into short notes; figures, tables and exercises removed."
-    },
-    {
-      "id": "math-genmath-business-logic",
-      "name": "Math · Gen Math: Business Math and Logic",
-      "subject": "math",
-      "grades": [
-        11
-      ],
-      "version": 1,
-      "sizeMB": 0.4,
-      "sha256": "4aebb9d628fb97fd975fa3ceb4ae775110c0b3a5898f2a50e685492a847d0f38",
-      "url": "https://raw.githubusercontent.com/Mckenly09/lucid-packs/main/packs/math-genmath-business-logic-v1.sqlite",
-      "license": "CC BY-NC-SA 4.0",
-      "attribution": "Adapted from Contemporary Mathematics by Donna Kirk (OpenStax, Rice University), https://openstax.org/details/books/contemporary-mathematics. Access for free at openstax.org. Licensed CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/). Changes: split into short notes; figures, tables and exercises removed."
     }
   ]
 }
