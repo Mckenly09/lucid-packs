@@ -50,6 +50,101 @@
       "url": "https://raw.githubusercontent.com/Mckenly09/lucid-packs/main/packs/science-bio-v1.sqlite",
       "license": "CC BY-NC-SA 4.0",
       "attribution": "Adapted from Concepts of Biology by Samantha Fowler, Rebecca Roush, James Wise (OpenStax, Rice University), https://openstax.org/details/books/concepts-biology. Access for free at openstax.org. Licensed CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/). Changes: split into short notes; figures, tables and exercises removed."
+    },
+    {
+      "id": "math-algebra",
+      "name": "Math · Algebra",
+      "subject": "math",
+      "grades": [
+        7,
+        8,
+        9
+      ],
+      "version": 1,
+      "sizeMB": 1,
+      "sha256": "7b00aa73af619fa643b77ce0a51ffdb9a95861fd5fad75f2a6e1d1615bdea7a0",
+      "url": "https://raw.githubusercontent.com/Mckenly09/lucid-packs/main/packs/math-algebra-v1.sqlite",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "Adapted from Elementary Algebra 2e by Lynn Marecek, MaryAnne Anthony-Smith, Andrea Honeycutt Mathis (OpenStax, Rice University), https://openstax.org/details/books/elementary-algebra-2e. Access for free at openstax.org. Licensed CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/). Changes: split into short notes; figures, tables and exercises removed."
+    },
+    {
+      "id": "math-advanced",
+      "name": "Math · Functions, Sequences and Circles",
+      "subject": "math",
+      "grades": [
+        8,
+        9,
+        10
+      ],
+      "version": 1,
+      "sizeMB": 0.2,
+      "sha256": "9d4e51ccc72e30db03ee790a76d7b76b451e1dce4ff976e184a7af0bc895ab49",
+      "url": "https://raw.githubusercontent.com/Mckenly09/lucid-packs/main/packs/math-advanced-v1.sqlite",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "Adapted from Intermediate Algebra 2e by Lynn Marecek, Andrea Honeycutt Mathis (OpenStax, Rice University), https://openstax.org/details/books/intermediate-algebra-2e. Access for free at openstax.org. Licensed CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/). Changes: split into short notes; figures, tables and exercises removed."
+    },
+    {
+      "id": "math-geometry",
+      "name": "Math · Geometry Basics",
+      "subject": "math",
+      "grades": [
+        7
+      ],
+      "version": 1,
+      "sizeMB": 0.1,
+      "sha256": "ff4f4b5a03f0b0e1308bc0717d97a10ccc8ccc3f71729290b9855187e2c3d330",
+      "url": "https://raw.githubusercontent.com/Mckenly09/lucid-packs/main/packs/math-geometry-v1.sqlite",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "Adapted from Prealgebra 2e by Lynn Marecek, MaryAnne Anthony-Smith, Andrea Honeycutt Mathis (OpenStax, Rice University), https://openstax.org/details/books/prealgebra-2e. Access for free at openstax.org. Licensed CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/). Changes: split into short notes; figures, tables and exercises removed."
+    },
+    {
+      "id": "math-trig-prob",
+      "name": "Math · Trigonometry and Probability",
+      "subject": "math",
+      "grades": [
+        9,
+        10
+      ],
+      "version": 1,
+      "sizeMB": 0.2,
+      "sha256": "01b010f6458143fdc1dccf8f5021230b6a4e0f9bf8eabee635d00f78260f0f37",
+      "url": "https://raw.githubusercontent.com/Mckenly09/lucid-packs/main/packs/math-trig-prob-v1.sqlite",
+      "license": "CC BY-NC-SA 4.0",
+      "attribution": "Adapted from Algebra and Trigonometry 2e by Jay Abramson (OpenStax, Rice University), https://openstax.org/details/books/algebra-and-trigonometry-2e. Access for free at openstax.org. Licensed CC BY-NC-SA 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/). Changes: split into short notes; figures, tables and exercises removed."
+    },
+    {
+      "id": "english-notes",
+      "name": "English · Grammar, Reading and Writing",
+      "subject": "english",
+      "grades": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "version": 1,
+      "sizeMB": 0.1,
+      "sha256": "24700c15d7d4c014593fe1d6683f36e0a767464c97759f30481d9c2b37d49093",
+      "url": "https://raw.githubusercontent.com/Mckenly09/lucid-packs/main/packs/english-notes-v1.sqlite",
+      "license": "CC BY 4.0",
+      "attribution": "Lucid English Notes by the Lucid contributors (Lucid), https://github.com/Mckenly09/lucid-packs. Licensed CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)."
+    },
+    {
+      "id": "science-earth",
+      "name": "Science · Earth and Space",
+      "subject": "science",
+      "grades": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "version": 1,
+      "sizeMB": 0.5,
+      "sha256": "4ab696f5ed2def117765150a7fada4985f3b4cd8afae34da76c19ebbc918ad8f",
+      "url": "https://raw.githubusercontent.com/Mckenly09/lucid-packs/main/packs/science-earth-v1.sqlite",
+      "license": "Public domain (US Government) and Philippine Government works",
+      "attribution": "Adapted from public web pages of the U.S. Geological Survey (USGS), NOAA's National Weather Service (JetStream), NASA, DOST-PHIVOLCS and DOST-PAGASA, retrieved 2026-10-28. US Government pages are in the public domain; Philippine Government works are used non-commercially (IP Code §176). Not endorsed by these agencies. Changes: split into short notes; images, menus and some tables removed. Each note links to its page."
     }
   ]
 }
